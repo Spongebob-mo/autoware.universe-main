@@ -1,0 +1,20 @@
+*:*/test/*
+
+checkersReport
+constParameterReference
+functionConst
+functionStatic
+missingInclude
+missingIncludeSystem
+noConstructor
+// cspell: ignore uninit
+uninitMemberVar
+unknownMacro
+unmatchedSuppression
+unreadVariable
+unusedFunction
+unusedStructMember
+useInitializationList
+useStlAlgorithm
+variableScope
+virtualCallInConstructor
